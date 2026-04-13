@@ -1,1 +1,1 @@
-https://rhapap.github.io/zakrivayuschiy-teg-ad/
+https://github.com/RHAPAP/zakrivayuschiy-teg-ad
